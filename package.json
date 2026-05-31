@@ -1,0 +1,18 @@
+{
+  "name": "sap-calc-deps-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-table": "node create-boards-table.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.5",
+    "@neondatabase/serverless": "^1.1.0",
+    "dotenv": "^17.4.2",
+    "sap-calculator": "github:robertley/SAP-Calculator#master"
+  }
+}
