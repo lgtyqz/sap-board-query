@@ -1,0 +1,3393 @@
+[
+  {
+    "replayId": "5699a3d8-d052-439f-80c5-cd7355867c1f",
+    "turn3": {
+      "wins": 1472,
+      "draws": 17,
+      "losses": 1,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Flamingo",
+            "attack": 5,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 3,
+            "health": 7,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Sheep",
+            "attack": 4,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dog",
+            "attack": 9,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 4,
+            "health": 4,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 638,
+      "draws": 167,
+      "losses": 685,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 13,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Deer",
+            "attack": 5,
+            "health": 5,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Boar",
+            "attack": 15,
+            "health": 15,
+            "exp": 0,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Turtle",
+            "attack": 3,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dog",
+            "attack": 21,
+            "health": 17,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Boar",
+            "attack": 11,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "0eb3d8e7-8d66-4e76-a7ca-710e88a23f11",
+    "turn3": {
+      "wins": 1437,
+      "draws": 33,
+      "losses": 20,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Cricket",
+            "attack": 4,
+            "health": 6,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Sheep",
+            "attack": 2,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dog",
+            "attack": 8,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 2,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fish",
+            "attack": 4,
+            "health": 5,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 513,
+      "draws": 202,
+      "losses": 775,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 1,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Mammoth",
+            "attack": 4,
+            "health": 12,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Turtle",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Boar",
+            "attack": 16,
+            "health": 12,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Rhino",
+            "attack": 11,
+            "health": 12,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Deer",
+            "attack": 4,
+            "health": 4,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "75ce6b9d-2d4d-41e8-a70e-1543fb4add3b",
+    "turn3": {
+      "wins": 1394,
+      "draws": 54,
+      "losses": 42,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Flamingo",
+            "attack": 6,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cricket",
+            "attack": 4,
+            "health": 6,
+            "exp": 3,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Sheep",
+            "attack": 4,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 5,
+            "health": 2,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 2,
+            "health": 1,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 523,
+      "draws": 65,
+      "losses": 902,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 13,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 1,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Turtle",
+            "attack": 9,
+            "health": 13,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Whale",
+            "attack": 15,
+            "health": 17,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dog",
+            "attack": 30,
+            "health": 22,
+            "exp": 2,
+            "equipment": {
+              "name": "Garlic"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dragon",
+            "attack": 4,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 3
+          },
+          {
+            "name": "Otter",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "f58247ad-dc6b-4f59-9242-c1d44e3d3769",
+    "turn3": {
+      "wins": 1357,
+      "draws": 55,
+      "losses": 78,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 0,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Otter",
+            "attack": 4,
+            "health": 8,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 3,
+            "health": 9,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 3,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null,
+          {
+            "name": "Spider",
+            "attack": 2,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 408,
+      "draws": 215,
+      "losses": 867,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 4,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Skunk",
+            "attack": 10,
+            "health": 10,
+            "exp": 2,
+            "equipment": {
+              "name": "Steak"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Leopard",
+            "attack": 16,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Tiger",
+            "attack": 11,
+            "health": 7,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Turkey",
+            "attack": 3,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 11,
+            "health": 22,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "fb8697fb-d4d4-41d8-aadd-85f99b77d3c5",
+    "turn3": {
+      "wins": 1328,
+      "draws": 111,
+      "losses": 51,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 13,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Badger",
+            "attack": 7,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 2,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Flamingo",
+            "attack": 3,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Peacock",
+            "attack": 2,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 1130,
+      "draws": 107,
+      "losses": 253,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 4,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Leopard",
+            "attack": 25,
+            "health": 21,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Badger",
+            "attack": 20,
+            "health": 24,
+            "exp": 1,
+            "equipment": {
+              "name": "Garlic"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Snake",
+            "attack": 11,
+            "health": 13,
+            "exp": 0,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Peacock",
+            "attack": 9,
+            "health": 17,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Monkey",
+            "attack": 4,
+            "health": 5,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "05598168-c6e7-443d-bda1-47f6f6ce1ec5",
+    "turn3": {
+      "wins": 1286,
+      "draws": 145,
+      "losses": 59,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 13,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Pig",
+            "attack": 6,
+            "health": 3,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 3,
+            "health": 10,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 3,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Hedgehog",
+            "attack": 4,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 283,
+      "draws": 132,
+      "losses": 1075,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 21,
+        "playerRollAmount": 6,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Turkey",
+            "attack": 9,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cow",
+            "attack": 10,
+            "health": 10,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 9,
+            "health": 17,
+            "exp": 2,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 7,
+            "health": 11,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dragon",
+            "attack": 13,
+            "health": 14,
+            "exp": 1,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "f614993e-47d1-44b8-98d6-143d5459a153",
+    "turn3": {
+      "wins": 1276,
+      "draws": 117,
+      "losses": 97,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 0,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          null,
+          {
+            "name": "Flamingo",
+            "attack": 4,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 6,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 3,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fish",
+            "attack": 4,
+            "health": 5,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 831,
+      "draws": 194,
+      "losses": 465,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 1,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Cat",
+            "attack": 4,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 1
+          },
+          {
+            "name": "Turtle",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 22,
+            "health": 24,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Blowfish",
+            "attack": 9,
+            "health": 12,
+            "exp": 3,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Tiger",
+            "attack": 8,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "c3b541e9-be87-4811-b8c3-32fc0575f3ce",
+    "turn3": {
+      "wins": 1265,
+      "draws": 143,
+      "losses": 82,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Ant",
+            "attack": 6,
+            "health": 4,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cricket",
+            "attack": 1,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Sheep",
+            "attack": 4,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cricket",
+            "attack": 1,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 4,
+            "health": 3,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 155,
+      "draws": 94,
+      "losses": 1241,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Elephant",
+            "attack": 18,
+            "health": 22,
+            "exp": 5,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Blowfish",
+            "attack": 6,
+            "health": 9,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Skunk",
+            "attack": 3,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Skunk",
+            "attack": 5,
+            "health": 7,
+            "exp": 1,
+            "equipment": {
+              "name": "Cake"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Monkey",
+            "attack": 2,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "3e9cfe7e-9972-47ef-9352-a25d169858f1",
+    "turn3": {
+      "wins": 1264,
+      "draws": 120,
+      "losses": 106,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 16,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Spider",
+            "attack": 2,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dog",
+            "attack": 10,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null,
+          {
+            "name": "Camel",
+            "attack": 3,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Peacock",
+            "attack": 2,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 723,
+      "draws": 90,
+      "losses": 677,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Deer",
+            "attack": 10,
+            "health": 6,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Turkey",
+            "attack": 4,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dog",
+            "attack": 25,
+            "health": 24,
+            "exp": 2,
+            "equipment": {
+              "name": "Garlic"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fly",
+            "attack": 11,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Turkey",
+            "attack": 7,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "0e3d2e3b-e08e-4d89-97ef-568c21adc986",
+    "turn3": {
+      "wins": 1257,
+      "draws": 138,
+      "losses": 95,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 0,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Pig",
+            "attack": 4,
+            "health": 1,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 4,
+            "health": 4,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Crab",
+            "attack": 4,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Rat",
+            "attack": 3,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dodo",
+            "attack": 5,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 648,
+      "draws": 133,
+      "losses": 709,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 9,
+        "playerRollAmount": 3,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Rat",
+            "attack": 21,
+            "health": 31,
+            "exp": 2,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Blowfish",
+            "attack": 11,
+            "health": 25,
+            "exp": 2,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Crab",
+            "attack": 10,
+            "health": 7,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cat",
+            "attack": 7,
+            "health": 6,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 2
+          },
+          {
+            "name": "Seal",
+            "attack": 9,
+            "health": 14,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "69541ab5-74a0-47bb-b031-5a5aafac7af7",
+    "turn3": {
+      "wins": 1245,
+      "draws": 134,
+      "losses": 111,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Flamingo",
+            "attack": 3,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Spider",
+            "attack": 3,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 4,
+            "health": 8,
+            "exp": 3,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Elephant",
+            "attack": 4,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 623,
+      "draws": 116,
+      "losses": 751,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 4,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 1,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Deer",
+            "attack": 9,
+            "health": 7,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Whale",
+            "attack": 9,
+            "health": 11,
+            "exp": 0,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Skunk",
+            "attack": 9,
+            "health": 9,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fly",
+            "attack": 10,
+            "health": 8,
+            "exp": 0,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Turkey",
+            "attack": 3,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "cf699e50-0eee-4bc7-8626-f0157a064c64",
+    "turn3": {
+      "wins": 1226,
+      "draws": 162,
+      "losses": 102,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          null,
+          {
+            "name": "Dolphin",
+            "attack": 5,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 5,
+            "health": 5,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 3,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fish",
+            "attack": 4,
+            "health": 5,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 103,
+      "draws": 85,
+      "losses": 1302,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 4,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Ant",
+            "attack": 8,
+            "health": 8,
+            "exp": 5,
+            "equipment": {
+              "name": "Cake"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Mammoth",
+            "attack": 8,
+            "health": 16,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Snake",
+            "attack": 12,
+            "health": 7,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dolphin",
+            "attack": 8,
+            "health": 7,
+            "exp": 2,
+            "equipment": {
+              "name": "Cake"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fish",
+            "attack": 4,
+            "health": 5,
+            "exp": 2,
+            "equipment": {
+              "name": "Cake"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "3c577a81-a722-48e5-a7bb-2419f82e1f2d",
+    "turn3": {
+      "wins": 1211,
+      "draws": 52,
+      "losses": 227,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 14,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Camel",
+            "attack": 5,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cricket",
+            "attack": 3,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Kangaroo",
+            "attack": 2,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null,
+          {
+            "name": "Otter",
+            "attack": 1,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 450,
+      "draws": 113,
+      "losses": 927,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 1,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Rhino",
+            "attack": 9,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Parrot",
+            "attack": 13,
+            "health": 11,
+            "exp": 5,
+            "equipment": {
+              "name": "Chili"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Tiger",
+            "attack": 9,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Crocodile",
+            "attack": 10,
+            "health": 6,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Fly",
+            "attack": 4,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "266b80d7-59e3-4c72-a98b-a3e76da6daa6",
+    "turn3": {
+      "wins": 1140,
+      "draws": 121,
+      "losses": 229,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Otter",
+            "attack": 4,
+            "health": 7,
+            "exp": 2,
+            "equipment": {
+              "name": "Meat Bone"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ox",
+            "attack": 2,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cricket",
+            "attack": 2,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cricket",
+            "attack": 1,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 2,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 455,
+      "draws": 95,
+      "losses": 940,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 0,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Skunk",
+            "attack": 10,
+            "health": 10,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Deer",
+            "attack": 12,
+            "health": 8,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ox",
+            "attack": 17,
+            "health": 22,
+            "exp": 2,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cat",
+            "attack": 12,
+            "health": 9,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cat",
+            "attack": 6,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "3a9709d2-2bdc-4f94-9efa-d67fcf4fb9dc",
+    "turn3": {
+      "wins": 1100,
+      "draws": 124,
+      "losses": 266,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Horse",
+            "attack": 7,
+            "health": 5,
+            "exp": 3,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ox",
+            "attack": 4,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Beaver",
+            "attack": 3,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 3,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 2,
+            "health": 7,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 461,
+      "draws": 107,
+      "losses": 922,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 0,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Horse",
+            "attack": 26,
+            "health": 23,
+            "exp": 5,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 17,
+            "health": 22,
+            "exp": 4,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dragon",
+            "attack": 4,
+            "health": 9,
+            "exp": 1,
+            "equipment": {
+              "name": "Chili"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 2
+          },
+          {
+            "name": "Penguin",
+            "attack": 6,
+            "health": 8,
+            "exp": 2,
+            "equipment": {
+              "name": "Meat Bone"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dragon",
+            "attack": 6,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "039e97a4-bae0-409a-be1b-ae3b23614c11",
+    "turn3": {
+      "wins": 1083,
+      "draws": 241,
+      "losses": 166,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Cricket",
+            "attack": 3,
+            "health": 6,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 5,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 5,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 6,
+            "health": 3,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 554,
+      "draws": 227,
+      "losses": 709,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 1,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Bison",
+            "attack": 22,
+            "health": 29,
+            "exp": 2,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Hedgehog",
+            "attack": 12,
+            "health": 17,
+            "exp": 3,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 11,
+            "health": 18,
+            "exp": 2,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Horse",
+            "attack": 12,
+            "health": 18,
+            "exp": 5,
+            "equipment": {
+              "name": "Bread"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Cat",
+            "attack": 9,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 2
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "086af75e-e821-40f1-b096-0b9c2559090e",
+    "turn3": {
+      "wins": 1070,
+      "draws": 232,
+      "losses": 188,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 10,
+        "playerRollAmount": 1,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Beaver",
+            "attack": 3,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 4,
+            "health": 8,
+            "exp": 3,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ant",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ox",
+            "attack": 2,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Kangaroo",
+            "attack": 2,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 356,
+      "draws": 132,
+      "losses": 1002,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 3,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Horse",
+            "attack": 5,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Deer",
+            "attack": 8,
+            "health": 8,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Whale",
+            "attack": 10,
+            "health": 14,
+            "exp": 1,
+            "equipment": {
+              "name": "Chili"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Ox",
+            "attack": 16,
+            "health": 16,
+            "exp": 2,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Dragon",
+            "attack": 6,
+            "health": 11,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 2
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "e013393f-dcd7-4a59-ad51-e2f15c576475",
+    "turn3": {
+      "wins": 1067,
+      "draws": 197,
+      "losses": 226,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Elephant",
+            "attack": 4,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Peacock",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Peacock",
+            "attack": 3,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Otter",
+            "attack": 3,
+            "health": 6,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Mosquito",
+            "attack": 3,
+            "health": 4,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 40,
+      "draws": 72,
+      "losses": 1378,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 3,
+        "playerSummonedAmount": 0,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Skunk",
+            "attack": 10,
+            "health": 12,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Whale",
+            "attack": 11,
+            "health": 15,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Snake",
+            "attack": 16,
+            "health": 11,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null,
+          {
+            "name": "Cat",
+            "attack": 10,
+            "health": 11,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0,
+            "triggersConsumed": 2
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "764b8a53-2bc9-4997-842b-1c4b003156ac",
+    "turn3": {
+      "wins": 1048,
+      "draws": 156,
+      "losses": 286,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 11,
+        "playerRollAmount": 2,
+        "playerSummonedAmount": 3,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Rat",
+            "attack": 3,
+            "health": 7,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Camel",
+            "attack": 3,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Pigeon",
+            "attack": 5,
+            "health": 3,
+            "exp": 2,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Pig",
+            "attack": 4,
+            "health": 1,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Spider",
+            "attack": 2,
+            "health": 2,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 526,
+      "draws": 191,
+      "losses": 773,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 3,
+        "playerSummonedAmount": 1,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Camel",
+            "attack": 25,
+            "health": 24,
+            "exp": 2,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Snake",
+            "attack": 10,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Boar",
+            "attack": 12,
+            "health": 8,
+            "exp": 0,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Monkey",
+            "attack": 2,
+            "health": 3,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Monkey",
+            "attack": 1,
+            "health": 2,
+            "exp": 0,
+            "equipment": {
+              "name": "Steak"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "replayId": "9ff08fce-7892-4d20-b7a2-9e614fe6a55d",
+    "turn3": {
+      "wins": 1035,
+      "draws": 0,
+      "losses": 455,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 3,
+        "playerGoldSpent": 15,
+        "playerRollAmount": 0,
+        "playerSummonedAmount": 4,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Rat",
+            "attack": 6,
+            "health": 10,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Giraffe",
+            "attack": 1,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          null,
+          {
+            "name": "Spider",
+            "attack": 2,
+            "health": 5,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Rat",
+            "attack": 3,
+            "health": 9,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    },
+    "turn11": {
+      "wins": 977,
+      "draws": 174,
+      "losses": 339,
+      "total": 1490,
+      "calculatorConfig": {
+        "playerPack": "Turtle",
+        "playerToy": null,
+        "playerToyLevel": "1",
+        "turn": 11,
+        "playerGoldSpent": 12,
+        "playerRollAmount": 3,
+        "playerSummonedAmount": 2,
+        "playerLevel3Sold": 0,
+        "playerTransformationAmount": 0,
+        "playerPets": [
+          {
+            "name": "Rat",
+            "attack": 24,
+            "health": 29,
+            "exp": 2,
+            "equipment": {
+              "name": "Chili"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Rhino",
+            "attack": 11,
+            "health": 11,
+            "exp": 1,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Leopard",
+            "attack": 10,
+            "health": 4,
+            "exp": 0,
+            "equipment": null,
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Scorpion",
+            "attack": 1,
+            "health": 3,
+            "exp": 0,
+            "equipment": {
+              "name": "Peanut"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          },
+          {
+            "name": "Leopard",
+            "attack": 19,
+            "health": 13,
+            "exp": 0,
+            "equipment": {
+              "name": "Melon"
+            },
+            "mana": 0,
+            "belugaSwallowedPet": null,
+            "abominationSwallowedPet1": null,
+            "abominationSwallowedPet2": null,
+            "abominationSwallowedPet3": null,
+            "battlesFought": 0
+          }
+        ]
+      }
+    }
+  }
+]

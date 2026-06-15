@@ -1,0 +1,282 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #333;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+header {
+  background: white;
+  border-radius: 12px;
+  padding: 30px 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 8px;
+  color: #667eea;
+}
+
+header .subtitle {
+  color: #999;
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.controls input {
+  display: none;
+}
+
+.controls button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.controls button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.controls button:active {
+  transform: translateY(0);
+}
+
+.stats {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: white;
+}
+
+.boards-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.team-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  margin: 12px;
+}
+
+.team-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.team-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 12px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+}
+
+.team-header .rank {
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+.team-header .wins {
+  font-size: 1.1em;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.team-header .winrate {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.pets-container {
+  display: flex;
+  padding: 15px;
+  flex: 1;
+}
+
+.pet-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 8px;
+  border: 1px solid #eee;
+  transition: all 0.2s;
+}
+
+.pet-card:hover {
+  background: #f0f0f0;
+  border-color: #667eea;
+}
+
+.pet-card img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-bottom: 4px;
+}
+
+.pet-stats {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  font-size: 0.85em;
+  font-weight: 600;
+  gap: 4px;
+}
+
+.stat {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 2px 4px;
+  border-radius: 3px;
+  color: white;
+}
+
+.stat.attack {
+  background: #4caf50;
+}
+
+.stat.health {
+  background: #f44336;
+}
+
+.equipment {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  width: 28px;
+  height: 28px;
+  background: white;
+  border: 2px solid #667eea;
+  border-radius: 50%;
+  padding: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.equipment img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.level-badge {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  background: #ff9800;
+  color: white;
+  font-size: 0.7em;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.pack-info {
+  padding: 10px 15px;
+  background: #f5f5f5;
+  border-top: 1px solid #eee;
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+  font-weight: 500;
+}
+
+/* Responsive design */
+@media (max-width: 1200px) {
+  .boards-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .boards-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  header h1 {
+    font-size: 1.8em;
+  }
+
+  .pets-container {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    padding: 12px;
+  }
+
+  .pet-card {
+    padding: 6px;
+  }
+
+  .pet-card img {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .boards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  header {
+    padding: 20px 15px;
+  }
+
+  header h1 {
+    font-size: 1.5em;
+  }
+
+  .team-header {
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+  }
+}

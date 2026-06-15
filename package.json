@@ -5,13 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "create-table": "node create-boards-table.js"
+    "create-table": "node create-boards-table.js",
+    "run-calc": "node run-calculations.js",
+    "view-top50": "open report-viewer/view-top50-turn3.html",
+    "export-top50": "node visualize-top50-turn3.js top50Turn3.json top50-turn3-visualization.png"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@datastructures-js/priority-queue": "^6.3.5",
     "@neondatabase/serverless": "^1.1.0",
+    "canvas": "^3.2.3",
     "dotenv": "^17.4.2",
     "sap-calculator": "github:robertley/SAP-Calculator#master"
   }
